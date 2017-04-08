@@ -1,2 +1,3 @@
 # hello-world
-Practic
+Practice
+Hello there, 
